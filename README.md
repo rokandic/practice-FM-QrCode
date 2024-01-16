@@ -17,7 +17,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Live Site](https://rokandic.github.io/practice-FM-QrCode/)
+- [Live Site](https://rokandic.github.io/practice-FM-QrCode/)
 
 ### Built with
 
