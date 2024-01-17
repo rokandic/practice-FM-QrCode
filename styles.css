@@ -47,7 +47,7 @@ body  {
     flex-direction: column;
 }
 
-#content {
+#card {
     display: flex;
     flex-direction: column;
     justify-content: center;
